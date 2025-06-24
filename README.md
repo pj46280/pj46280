@@ -33,4 +33,4 @@
 
 ### 🔗 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/pj124) | [GitHub](https://github.com/pj46280)
+[LinkedIn](https://www.linkedin.com/in/pj124) | [GitHub](https://github.com/pj46280) | [StackOverflow](https://stackoverflow.com/users/14169348/priyanshu-jha)
